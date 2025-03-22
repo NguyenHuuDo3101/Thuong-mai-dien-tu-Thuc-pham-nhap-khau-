@@ -2,7 +2,7 @@
 
 ## 📌 Giới thiệu
 Dự án **Thương mại điện tử - Thực phẩm nhập khẩu** là một nền tảng trực tuyến giúp người dùng tìm kiếm, đặt mua và thanh toán các loại thực phẩm nhập khẩu chất lượng cao.
-
+Video Demo: https://youtu.be/M-uoxc5Dl5Y
 ## ✨ Tính năng chính
 - 📝 **Đăng ký / Đăng nhập**: Hỗ trợ tài khoản người dùng và admin.
 - 🛍️ **Mua sắm sản phẩm**: Xem danh mục sản phẩm, chi tiết sản phẩm, thêm vào giỏ hàng.
