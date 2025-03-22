@@ -56,6 +56,6 @@ npm start
 5. Tạo Pull Request.
 
 ## 📧 Liên hệ
-- **Email**: dev@example.com
+- **Email**: nhdo3101@gmail.com
 - **GitHub**: [NguyenHuuDo3101](https://github.com/NguyenHuuDo3101)
 - **Website**: [Đang phát triển]
